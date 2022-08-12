@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdul Basit</h1>
 
 I'm currently studying Artificial Intelligence at [JKU Linz](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/).
 
