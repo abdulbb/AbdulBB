@@ -2,7 +2,7 @@
 
 I'm currently studying Artificial Intelligence at [JKU Linz](https://www.jku.at/en/degree-programs/types-of-degree-programs/masters-degree-programs/ma-artificial-intelligence/).
 
-- 🔭 I’m currently working on **my thesis**
+- 🛰 Intern @ International Atomic Energy Agency
 
 - 🌱 I’m currently learning **all kind of stuff in Deep learning**
 
